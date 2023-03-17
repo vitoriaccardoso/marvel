@@ -1,0 +1,93 @@
+*{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    
+
+}
+
+.title{
+    font-size: 35px;
+    margin-left: 1cm;
+    margin-right: 50px;
+    display: flex;
+    
+    
+}
+main{
+    font-size: 30px;
+    
+}
+
+.info {
+    width: 900px;
+    text-align: center;
+    margin-top: 200px;
+    
+}
+
+
+.redes{
+    margin-left: 62cm;
+    margin-top: 10px;
+    font-size: 40px;
+
+}
+
+.facebook{
+    margin-bottom: 50px;
+}
+
+.instagram{
+    margin-bottom: 50px;
+}
+
+.twitter{
+    margin-bottom: 50px;
+}
+
+.youtube{
+    margin-bottom: 50px;
+}
+
+footer{
+   
+    display: flex;
+    gap: 50px;
+    margin-top: -200px;
+    
+
+
+}
+
+body{
+    background-image: url("./img/background.png");
+    background-size: cover;
+    }
+
+.movie{
+    margin-right: 30px;
+    font-size: 45px;
+}
+
+.personagens{
+    margin-right: 30px;
+    font-size: 45px;
+}
+
+.galeria{
+    margin-right: 30px;
+    font-size: 45px;
+}
+
+.news{
+    margin-right: 30px;
+    font-size: 45px;
+}
+
+.imagem{
+    font-size: 50px;
+}
